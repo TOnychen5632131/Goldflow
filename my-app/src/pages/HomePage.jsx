@@ -74,30 +74,10 @@ const NFTSection = () => {
                 }}>
                   <img
                     src="/1.gif"
-                    alt="NFT Preview 1"
+                    alt="NFT Preview"
                   />
                 </Box>
               </Grid>
-              <Grid item xs={12} md={6}>
-                <Box sx={{ 
-                  bgcolor: '#E8E8E8', 
-                  borderRadius: 2,
-                  aspectRatio: '4/3',
-                  width: '100%'
-                }} />
-              </Grid>
-            </Grid>
-          </Card>
-
-          {/* Second Card */}
-          <Card sx={{ 
-            bgcolor: 'white', 
-            borderRadius: '24px', 
-            p: 3,
-            mb: 3,
-            boxShadow: 'none'
-          }}>
-            <Grid container spacing={3}>
               <Grid item xs={12} md={6}>
                 <Box sx={{ 
                   borderRadius: 2,
@@ -116,23 +96,14 @@ const NFTSection = () => {
                   />
                 </Box>
               </Grid>
-              <Grid item xs={12} md={6}>
-                <Box sx={{ 
-                  bgcolor: '#E8E8E8', 
-                  borderRadius: 2,
-                  aspectRatio: '4/3',
-                  width: '100%'
-                }} />
-              </Grid>
             </Grid>
           </Card>
 
-          {/* Third Card */}
+          {/* Second Card */}
           <Card sx={{ 
             bgcolor: 'white', 
             borderRadius: '24px', 
             p: 3,
-            mb: 3,
             boxShadow: 'none'
           }}>
             <Grid container spacing={3}>
@@ -156,25 +127,6 @@ const NFTSection = () => {
               </Grid>
               <Grid item xs={12} md={6}>
                 <Box sx={{ 
-                  bgcolor: '#E8E8E8', 
-                  borderRadius: 2,
-                  aspectRatio: '4/3',
-                  width: '100%'
-                }} />
-              </Grid>
-            </Grid>
-          </Card>
-
-          {/* Fourth Card */}
-          <Card sx={{ 
-            bgcolor: 'white', 
-            borderRadius: '24px', 
-            p: 3,
-            boxShadow: 'none'
-          }}>
-            <Grid container spacing={3}>
-              <Grid item xs={12} md={6}>
-                <Box sx={{ 
                   borderRadius: 2,
                   overflow: 'hidden',
                   aspectRatio: '4/3',
@@ -190,14 +142,6 @@ const NFTSection = () => {
                     alt="NFT Preview 4"
                   />
                 </Box>
-              </Grid>
-              <Grid item xs={12} md={6}>
-                <Box sx={{ 
-                  bgcolor: '#E8E8E8', 
-                  borderRadius: 2,
-                  aspectRatio: '4/3',
-                  width: '100%'
-                }} />
               </Grid>
             </Grid>
           </Card>
