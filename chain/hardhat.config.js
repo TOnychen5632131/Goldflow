@@ -1,5 +1,6 @@
-require("@nomiclabs/hardhat-ethers");
 require("dotenv").config(); // 加载 .env 文件中的环境变量
+require("@nomicfoundation/hardhat-toolbox");
+require("@nomicfoundation/hardhat-ignition");
 
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {

@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/TOnychen5632131/Goldflow#readme",
   "devDependencies": {
-    "@nomiclabs/hardhat-ethers": "^2.0.3",
-    "ethers": "^5.7.2",
+    "@nomicfoundation/hardhat-ignition": "^0.15.9",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "hardhat": "^2.22.18"
   },
   "dependencies": {
