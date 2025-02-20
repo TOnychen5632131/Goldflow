@@ -16,6 +16,10 @@ The project consists of two main parts:
 - Material-UI Interface
 - Web3 Integration
 
+
+https://github.com/user-attachments/assets/313df343-cc8e-4a10-9e32-4c0ae764b54f
+
+
 ## Technology Stack
 
 ### Blockchain
