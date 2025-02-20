@@ -13,7 +13,7 @@ Gold Flow is an innovative Web3 investment platform that combines physical gold 
 
 The project consists of two main parts:
 
-### 1. Blockchain Smart Contracts (`/chain`)
+### 1. Blockchain Smart Contracts (`/Goldflow-Hardhat`)
 - NFT Minting Contract (NFTMinter.sol)
 - Staking Contract (NFTStaking.sol)
 - Fund Management Contract (Vault.sol)
