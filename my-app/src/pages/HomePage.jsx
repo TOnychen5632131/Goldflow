@@ -244,6 +244,10 @@ const UploadSection = () => {
   );
 };
 
+// 修改合约地址
+const NFT_CONTRACT_ADDRESS = "0x6CbefdBd9B5efC3e729970b7186247D9617E25Ac";
+const LOCK_CONTRACT_ADDRESS = "0xBc4544eAdBB9a78838E8f7e1d29e16eF1392F147";
+
 const HomePage = () => {
   const [goldValue, setGoldValue] = useState(142442);
   const [account, setAccount] = useState('');
