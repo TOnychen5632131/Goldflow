@@ -4,9 +4,6 @@
 
 Gold Flow is an innovative Web3 investment platform that combines physical gold mining with blockchain technology. Through smart contracts and NFTs, users can participate in gold mining investments and earn returns.
 
-![image](https://github.com/user-attachments/assets/f9d61263-6dc2-4e05-8301-2c8527cc6d5b)
-
-![image](https://github.com/user-attachments/assets/37fccfab-8a4c-4aec-9f50-4f86441ba9a6)
 
 
 ## Project Architecture
@@ -17,6 +14,13 @@ The project consists of two main parts:
 - NFT Minting Contract (NFTMinter.sol)
 - Staking Contract (NFTStaking.sol)
 - Fund Management Contract (Vault.sol)
+
+![image](https://github.com/user-attachments/assets/f9d61263-6dc2-4e05-8301-2c8527cc6d5b)
+
+
+
+
+![image](https://github.com/user-attachments/assets/37fccfab-8a4c-4aec-9f50-4f86441ba9a6)
 
 ### 2. Frontend Application (`/my-app`)
 - React Application
