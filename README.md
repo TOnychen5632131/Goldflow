@@ -247,7 +247,7 @@ const contract = new ethers.Contract(address, abi, signer);
 
 ## License
 
-ISC License
+MIT License
 
 ## Contact Information
 
