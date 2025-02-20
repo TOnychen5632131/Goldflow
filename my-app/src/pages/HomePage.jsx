@@ -73,7 +73,7 @@ const NFTSection = () => {
                   }
                 }}>
                   <img
-                    src="/1.jpg"
+                    src="/1.gif"
                     alt="NFT Preview"
                   />
                 </Box>
