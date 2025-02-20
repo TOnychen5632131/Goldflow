@@ -4,7 +4,10 @@
 
 Gold Flow is an innovative Web3 investment platform that combines physical gold mining with blockchain technology. Through smart contracts and NFTs, users can participate in gold mining investments and earn returns.
 
-
+##Addresses: 
+📜 Vault: https://sepolia.etherscan.io/address/0x4B131ecD3946641f13216F4467C446BC49a2F3bc
+📜 NFTMinter: https://sepolia.etherscan.io/address/0xEdde5d3e3A44CEdf7B11dCd4FddB8F1E7F26Bef7
+📜 NFTStaking: https://sepolia.etherscan.io/address/0x427414E9403217aF85D1E079c993697271172fa0
 ## Pitch video: https://youtu.be/z9BE7-49V_Y
 
 ## Demo video: https://youtu.be/gZ4X3s4t0pA
