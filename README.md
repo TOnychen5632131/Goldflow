@@ -5,6 +5,9 @@
 Gold Flow is an innovative Web3 investment platform that combines physical gold mining with blockchain technology. Through smart contracts and NFTs, users can participate in gold mining investments and earn returns.
 
 
+## Pitch video: https://youtu.be/z9BE7-49V_Y
+
+## Demo video: https://youtu.be/gZ4X3s4t0pA
 
 ## Project Architecture
 
